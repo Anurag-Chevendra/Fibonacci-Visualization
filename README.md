@@ -6,4 +6,4 @@ A Fibonacci Series looks like :
 
 Visualization of this series :
 
-![From Program](Fibonacci Visualization .png)
+![From Program] (Fibonacci Visualization .png)
